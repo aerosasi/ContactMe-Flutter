@@ -12,5 +12,5 @@ This is  attractive design contact me card made using the flutter.
 
 This is the Contact me card of the app:
 
-![](https://github.com/aerosasi/ContactMe-Flutter/blob/master/screenshot/Screenshot_20200517-013253.jpg)
+<img src="https://github.com/aerosasi/ContactMe-Flutter/blob/master/screenshot/Screenshot_20200517-013253.jpg" width=400 height=800>
       
